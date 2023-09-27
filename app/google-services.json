@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92735188552",
+    "project_id": "penges-85042",
+    "storage_bucket": "penges-85042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92735188552:android:a8f980227a972eba4cb27d",
+        "android_client_info": {
+          "package_name": "com.example.pengesnotesapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92735188552-it38gso8m3710ir4510nja80b1vpuidt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP1gLTIxMInutgv6AL27Qb9UwxIHXoYtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92735188552-it38gso8m3710ir4510nja80b1vpuidt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
